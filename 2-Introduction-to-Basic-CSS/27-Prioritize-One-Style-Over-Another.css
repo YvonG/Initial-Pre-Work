@@ -1,0 +1,12 @@
+/* I learned how to prioritize one stype over another*/
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text{
+    color:pink;
+  }
+</style>
+<h1 class="pink-text">pink</h1>
