@@ -1,0 +1,11 @@
+/* I learned how inherit style works with the body element*/
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color:green;
+  }
+
+</style>
+
+<h1> Hello world</h1>
