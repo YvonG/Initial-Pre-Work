@@ -1,10 +1,10 @@
-/* I learned how to align elements using the justify content preperty*/
+/* I learned how to align elements using the justify content preperty */
 <style>
   #box-container {
     background: gray;
     display: flex;
     height: 500px;
-
+    justify-content:center;
   }
   #box-1 {
     background-color: dodgerblue;
